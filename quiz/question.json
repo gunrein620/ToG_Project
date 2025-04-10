@@ -1,0 +1,44 @@
+{
+    "questions": [
+        {
+            "question": "지구는 평면이다.",
+            "answer": false
+        },
+        {
+            "question": "물은 100도에서 끓는다.",
+            "answer": true
+        },
+        {
+            "question": "태양은 동쪽에서 떠오른다.",
+            "answer": true
+        },
+        {
+            "question": "1 + 1 = 3이다.",
+            "answer": false
+        },
+        {
+            "question": "인간의 정상 체온은 36.5도이다.",
+            "answer": true
+        },
+        {
+            "question": "지구는 태양계의 행성이다.",
+            "answer": true
+        },
+        {
+            "question": "모든 동물은 심장이 있다.",
+            "answer": false
+        },
+        {
+            "question": "사과는 채소이다.",
+            "answer": false
+        },
+        {
+            "question": "지구는 자전한다.",
+            "answer": true
+        },
+        {
+            "question": "모든 물은 무색이다.",
+            "answer": false
+        }
+    ]
+}
